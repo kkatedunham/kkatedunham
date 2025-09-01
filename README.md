@@ -16,4 +16,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkatedunham&show_icons=true&locale=en&layout=compact" alt="kkatedunham" /></p>
 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub Logo")
+![GitHub Logo](images/github-logo.jpg "GitHub Logo")
