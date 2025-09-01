@@ -1,19 +1,18 @@
 <h1 align="center">Hi ☺ I'm Kate 💌 🍭 🎀</h1>
-<h3 align="center">A Creative Advertising student at JMU</h3>
 
-- ⭐ I am a **senior at JMU 💜**
+⭐ I am a **senior at JMU 💜**
 
-- ⭐ I love to be **creative 🎨**
+⭐ I love to be **creative 🎨**
 
-- ⭐ My favorite color is **pink 🌸**
+⭐ My favorite color is **pink 🌸**
 
-- ⭐ How to reach me **k8dunham@gmail.com**
+⭐ How to reach me **k8dunham@gmail.com**
 
-- ⭐ Fun fact **I'm left handed!**
+⭐ Fun fact **I'm left handed!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kkatedunham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kkatedunham" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/kate-dunham-47684a271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kkatedunham" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
